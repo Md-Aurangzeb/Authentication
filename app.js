@@ -3,10 +3,10 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const ejs = require('ejs');
 const mongoose = require('mongoose');
-//hassing
-// const md5 = require('md5');
 //encrypting
 // const encrypt = require('mongoose-encryption');
+//hassing
+// const md5 = require('md5');
 //hassing and salting 
 // const bcrypt = require('bcrypt');
 // const saltRounds = 10;
